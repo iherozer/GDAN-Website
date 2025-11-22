@@ -1,0 +1,12 @@
+body {
+    margin : 0;
+    padding : 0;
+}
+::-webkit-scrollbar {
+    display : none;
+}
+.bg {
+    user-select : none;
+    width : 100vw;
+    height : auto;
+}
